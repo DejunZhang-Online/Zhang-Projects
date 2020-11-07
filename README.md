@@ -1,2 +1,1 @@
-# Zhangdejun_learning
-Just some private train.
+This is my first project here.
